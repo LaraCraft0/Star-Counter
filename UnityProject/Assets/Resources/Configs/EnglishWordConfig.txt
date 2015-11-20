@@ -1,4 +1,4 @@
-id	EN
+int/id/id	string/EN/英文
 1	Hello World
 2	Counting Stars
 3	Star Counter

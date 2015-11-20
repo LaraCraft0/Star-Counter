@@ -1,4 +1,4 @@
-id	CN
+int/id/id	string/CN/中文
 1	Hello World
 2	数星星
 3	数星星的人
